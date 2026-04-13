@@ -1,0 +1,16 @@
+prodotto,categoria,scorta_attuale,livello_riordino,in_ordine,stato_scorta
+Gorgonzola Telino,Dairy Products,0,20,70,ESAURITO
+Sir Rodney's Scones,Confections,3,5,40,CRITICO
+Louisiana Hot Spiced Okra,Condiments,4,20,100,CRITICO
+Longlife Tofu,Produce,4,5,20,CRITICO
+Rogede sild,Seafood,5,15,70,CRITICO
+Northwoods Cranberry Sauce,Condiments,6,0,0,OK
+Scottish Longbreads,Confections,6,15,10,CRITICO
+Mascarpone Fabioli,Dairy Products,9,25,40,CRITICO
+Nord-Ost Matjeshering,Seafood,10,15,0,CRITICO
+Maxilaku,Confections,10,15,60,CRITICO
+Gravad lax,Seafood,11,25,50,CRITICO
+Aniseed Syrup,Condiments,13,25,70,CRITICO
+Mozzarella di Giovanni,Dairy Products,14,0,0,OK
+Uncle Bob's Organic Dried Pears,Produce,15,10,0,OK
+Gumbär Gummibärchen,Confections,15,0,0,OK
